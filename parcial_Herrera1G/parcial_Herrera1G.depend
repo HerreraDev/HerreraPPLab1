@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1589578912 source:c:\users\marti\desktop\facultad\programacion 1\parcial 1\herrerapplab1\parcial_herrera1g\fecha.c
+	"fecha.h"
+
+1589578867 c:\users\marti\desktop\facultad\programacion 1\parcial 1\herrerapplab1\parcial_herrera1g\fecha.h
+
+1589588155 source:c:\users\marti\desktop\facultad\programacion 1\parcial 1\herrerapplab1\parcial_herrera1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"moto.h"
+	"trabajo.h"
+
+1589590269 source:c:\users\marti\desktop\facultad\programacion 1\parcial 1\herrerapplab1\parcial_herrera1g\moto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"moto.h"
+	"dataWareHousue.h"
+	"validacionesHerrera.h"
+
+1589590299 c:\users\marti\desktop\facultad\programacion 1\parcial 1\herrerapplab1\parcial_herrera1g\moto.h
+	"tipo.h"
+	"color.h"
+
+1589588651 source:c:\users\marti\desktop\facultad\programacion 1\parcial 1\herrerapplab1\parcial_herrera1g\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1589590021 c:\users\marti\desktop\facultad\programacion 1\parcial 1\herrerapplab1\parcial_herrera1g\color.h
+
+1589588896 source:c:\users\marti\desktop\facultad\programacion 1\parcial 1\herrerapplab1\parcial_herrera1g\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1589588889 c:\users\marti\desktop\facultad\programacion 1\parcial 1\herrerapplab1\parcial_herrera1g\servicio.h
+
+1589588689 source:c:\users\marti\desktop\facultad\programacion 1\parcial 1\herrerapplab1\parcial_herrera1g\tipo.c
+	"tipo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589588749 c:\users\marti\desktop\facultad\programacion 1\parcial 1\herrerapplab1\parcial_herrera1g\tipo.h
+
+1589589146 source:c:\users\marti\desktop\facultad\programacion 1\parcial 1\herrerapplab1\parcial_herrera1g\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+	"validacionesHerrera.h"
+
+1589585718 c:\users\marti\desktop\facultad\programacion 1\parcial 1\herrerapplab1\parcial_herrera1g\trabajo.h
+	"fecha.h"
+	"color.h"
+	"tipo.h"
+	"servicio.h"
+	"moto.h"
+
+1589581440 c:\users\marti\desktop\facultad\programacion 1\parcial 1\herrerapplab1\parcial_herrera1g\datawarehousue.h
+
+1589393919 source:c:\users\marti\desktop\facultad\programacion 1\parcial 1\herrerapplab1\parcial_herrera1g\validacionesherrera.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validacionesHerrera.h"
+
+1589221299 c:\users\marti\desktop\facultad\programacion 1\parcial 1\herrerapplab1\parcial_herrera1g\validacionesherrera.h
+
